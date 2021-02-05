@@ -15,7 +15,7 @@
 
 - LAMP stack installed
 - Docker installed 
-- MySql db - faculty_profile_db (sql queries provided)
+- MySql db - faculty_profile_db (sample_queries.sql provided)
  
 
 ### Changes you need to do 
